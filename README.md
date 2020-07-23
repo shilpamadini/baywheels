@@ -43,7 +43,7 @@ please follow below instruction to create this project environment on your local
 
 ## Dataset
 
-> This data consists of 519700 bike rides data recorded for the year 2017.
+> This data consists of 519700 bike rides recorded for the year 2017.
 This dataset can be found at [Bay Wheels  System Data](https://www.lyft.com/bikes/bay-wheels/system-data)
 
 
@@ -56,7 +56,7 @@ stations where most of the rides originated.I also found that average trip durat
 
 ## Key Insights for Presentation
 
-> For the presentation I focused mainly on how ridership is affected by user type and the day of the week ride occurs.Subscribers take more
+> For the presentation I focused mainly on how ridership is affected by user type and the day of the week when the ride occurs.Subscribers take more
 number of rides but their ride duration tends to be shorter and they ride mostly
-on weekdays. Customers on the other hand have less over ridership but have longer
+on weekdays. Customers on the other hand have less overall ridership but have longer
 average ride duration and they mostly use the bikes on weekends.
