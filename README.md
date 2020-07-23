@@ -10,7 +10,7 @@
     * Jupyter notebook file to capturing the entire data wrangling process.
 3. data-exploration.html
        * data exploration report in HTML format
-4. data-analysis-report.slides.html
+4. explanatory_analysis-slides.html
        * Final analysis report slides in HTML format
 5. data
     * 2017-fordgobike-tripdata.zip
